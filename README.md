@@ -1,1 +1,2 @@
 # Read_and_Revise_Excel
+本脚本可实现对Excel文档遍历读取并按照需求进行修改。
